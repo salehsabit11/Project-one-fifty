@@ -31,7 +31,7 @@ achieve the highest score. Best for fun and implimenting basic game development 
 # Installation:
 	git clone https://github.com/salehsabit11/Project-one-fifty
 	cd Project-one-fifty
-	<img width="1202" height="802" alt="Screenshot 2025-12-12 230917" src="https://github.com/user-attachments/assets/e3998ac5-956a-4513-a7b4-d566e4103a8f" />
+	
 
 	
 == Double click the file and enjoy the game. ==
