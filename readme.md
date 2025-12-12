@@ -31,6 +31,9 @@ achieve the highest score. Best for fun and implimenting basic game development 
 # Installation:
 	git clone https://github.com/salehsabit11/Project-one-fifty
 	cd Project-one-fifty
+	or You can download the game.exe from our release section
+	to play the game directly and enjoy the game
+	https://github.com/salehsabit11/Project-one-fifty/releases/tag/v1.0
 	
 
 	
